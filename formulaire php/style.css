@@ -1,0 +1,15 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  margin-top: 10px;
+}
+.titre {
+  text-align: center;
+  margin-top: 20px;
+}
+.titre2 {
+  margin-top: 50px;
+  margin-left: 500px;
+}
